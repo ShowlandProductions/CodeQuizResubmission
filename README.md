@@ -1,4 +1,6 @@
 Code Quiz Resubmission
+
+
 Changes added to the main js 
 //# Playing the game proceeds as follows:
 // The user arrives at the landing page & is presented with an action to "Start Quiz." There's a navigation option for "View Highscores" & "Time" value set at 0 seconds.
